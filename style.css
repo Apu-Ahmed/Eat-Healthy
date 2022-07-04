@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-flexible {
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.title-color {
+    color: #2525a5;
+}
+
+.half-width {
+    width: 45%;
+    /* padding-left: 5%; */
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+.half-text {
+    margin-top: 100px;
+    padding-left: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 20px 30px;
+    color: white;
+    background-image: linear-gradient(#0000ff, #7171b9);
+    font-weight: 700;
+    border-radius: 40px;
+
+}
+
+.half-width img {
+    width: 95%;
+    margin-top: 20px;
+}
